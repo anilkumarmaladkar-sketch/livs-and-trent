@@ -178,7 +178,7 @@ p {
             rgba(20, 17, 14, 0.75),
             rgba(20, 17, 14, 0.05)
         ),
-        url("livs&trent1.jpg") center center / cover no-repeat;
+        url("livs-trent1.jpg") center center / cover no-repeat;
 
     color: white;
 }
@@ -389,17 +389,17 @@ p {
 
 .marriage-image {
     background-image:
-        url("livs&trentmarriage.png");
+        url("livs-trentmarriage.png");
 }
 
 .travel-image {
     background-image:
-        url("livs&trent2.png");
+        url("livs-trent2.png");
 }
 
 .everyday-image {
     background-image:
-        url("livs&trent3.png");
+        url("livs-trent3.png");
 }
 
 .world-card-content {
